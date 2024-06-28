@@ -1,3 +1,3 @@
 function filter(param) {
-  return .*`http://www.gstatic.com/generate_204`300;
+  return "🛬 绿色通道11\n🛬 绿色通道22"
 }
