@@ -1,3 +1,3 @@
 function filter(param) {
-  return param;
+  return .*`http://www.gstatic.com/generate_204`300;
 }
