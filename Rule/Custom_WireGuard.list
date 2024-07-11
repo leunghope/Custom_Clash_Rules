@@ -1,0 +1,9 @@
+# NAME: Custom_WireGuard
+# AUTHOR: leunghope
+# REPO: https://github.com/leunghope/Custom_Clash_Rules
+# 自用WireGuard IP段
+
+IP-CIDR,10.0.0.0/24,no-resolve
+IP-CIDR,10.0.2.0/24,no-resolve
+IP-CIDR,10.0.3.0/24,no-resolve
+IP-CIDR,192.168.2.0/24,no-resolve
