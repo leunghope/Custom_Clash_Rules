@@ -1,0 +1,4 @@
+  - IP-CIDR,10.0.0.0/24,🏡 WireGuard,no-resolve
+  - IP-CIDR,10.0.2.0/24,🏡 WireGuard,no-resolve
+  - IP-CIDR,10.0.3.0/24,🏡 WireGuard,no-resolve
+  - IP-CIDR,192.168.2.0/24,🏡 WireGuard,no-resolve
