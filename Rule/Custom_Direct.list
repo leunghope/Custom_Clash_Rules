@@ -4,6 +4,7 @@
 # 强制直连列表
 
 # 自定义域名规则
+DOMAIN-SUFFIX,hanfenggame.com
 DOMAIN-SUFFIX,shared.oaifree.com
 # ImmortalWrt 在线更新
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
