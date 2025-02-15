@@ -3,6 +3,10 @@
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # 强制代理列表
 
+# Google Gemini
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,generativelanguage.googleapis.com
+
 # 战网国际服登录
 DOMAIN-SUFFIX,eu.battle.net
 DOMAIN-SUFFIX,us.battle.net
