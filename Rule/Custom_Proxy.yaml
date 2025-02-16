@@ -9,4 +9,4 @@
 # IP-CIDR: 0
 # TOTAL: 1
 payload:
-  - DOMAIN-SUFFIX,api.statsig.com
+  - DOMAIN,generativelanguage.googleapis.com
