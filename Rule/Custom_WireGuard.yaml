@@ -1,0 +1,10 @@
+# NAME: WireGuard
+# AUTHOR: LeungHope
+# REPO: https://github.com/leunghope/Custom_Clash_Rules
+# UPDATED: 2025-02-16 22:33:54
+# IP-CIDR: 3
+# TOTAL: 3
+payload:
+  - IP-CIDR,10.0.0.0/24
+  - IP-CIDR,10.0.2.0/24
+  - IP-CIDR,10.0.3.0/24
