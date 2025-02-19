@@ -9,4 +9,5 @@
 # IP-CIDR: 0
 # TOTAL: 1
 payload:
+  - DOMAIN,api.x.ai
   - DOMAIN,generativelanguage.googleapis.com
