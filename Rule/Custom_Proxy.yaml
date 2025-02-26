@@ -10,4 +10,5 @@
 # TOTAL: 1
 payload:
   - DOMAIN,api.x.ai
+  - DOMAIN-SUFFIX,adspower.net
   - DOMAIN,generativelanguage.googleapis.com
