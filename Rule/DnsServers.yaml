@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,dns.google
+  - DOMAIN,dns.google.com
   - DOMAIN,one.one.one.one
   - DOMAIN,cloudflare-dns.com
   - DOMAIN,dns.cloudflare.com
