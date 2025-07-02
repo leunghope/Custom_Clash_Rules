@@ -9,4 +9,4 @@
 # IP-CIDR: 0
 # TOTAL: 1
 payload:
-  - DOMAIN,ipw.cn
+  - DOMAIN-SUFFIX,ipw.cn
