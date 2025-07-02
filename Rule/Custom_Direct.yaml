@@ -1,0 +1,12 @@
+# NAME: Custom_Direct
+# AUTHOR: LeungHope
+# REPO: https://github.com/leunghope/Custom_Clash_Rules
+# UPDATED: 2025-02-17 00:45:28
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 1
+# IP-ASN: 0
+# IP-CIDR: 0
+# TOTAL: 1
+payload:
+  - DOMAIN,ipw.cn
