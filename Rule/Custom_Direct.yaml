@@ -11,4 +11,4 @@
 payload:
   - DOMAIN-SUFFIX,ipw.cn
   - DOMAIN-SUFFIX,leunghope.com
-  - IP-CIDR,47.98.189.255,no-resolve
+  - IP-CIDR,47.98.189.255/32,no-resolve
