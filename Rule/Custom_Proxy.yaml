@@ -10,5 +10,7 @@
 # TOTAL: 1
 payload:
   - DOMAIN,api.x.ai
+  - DOMAIN,linux.do
+  - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,jetbrains.com.cn
   - DOMAIN,generativelanguage.googleapis.com
