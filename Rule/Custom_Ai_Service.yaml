@@ -1,0 +1,14 @@
+# NAME: Custom_Ai_Service
+# AUTHOR: LeungHope
+# REPO: https://github.com/leunghope/Custom_Clash_Rules
+# UPDATED: 2025-07-06 21:54:35
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 2
+# IP-ASN: 0
+# IP-CIDR: 0
+# TOTAL: 3
+payload:
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN,generativelanguage.googleapis.com
